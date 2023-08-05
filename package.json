@@ -1,0 +1,30 @@
+{
+  "name": "@universegalaxy1112/react-native-video-cache",
+  "title": "React Native Video Cache",
+  "version": "0.0.10",
+  "description": "Boost performance on online video loading and caching",
+  "main": "index.js",
+  "types": "index.d.ts",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/universegalaxy1112/react-native-video-cache.git",
+    "baseUrl": "https://github.com/universegalaxy1112/react-native-video-cache"
+  },
+  "keywords": [
+    "react-native"
+  ],
+  "license": "MIT",
+  "licenseFilename": "LICENSE",
+  "readmeFilename": "README.md",
+  "peerDependencies": {
+    "react": "*",
+    "react-native": "*"
+  },
+  "devDependencies": {
+    "react": "^16.8.3",
+    "react-native": "^0.59.10"
+  },
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com"
+  }
+}

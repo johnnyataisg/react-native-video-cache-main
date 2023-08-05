@@ -1,0 +1,20 @@
+# OSX
+#
+.DS_Store
+
+# Node
+#
+node_modules/
+npm-debug.log
+yarn-error.log
+yarn.lock
+
+# Misc
+#
+.expo
+.vscode/
+example/
+.eslintrc.js
+.prettierignore
+.gitignore
+.gitattributes
